@@ -1,3 +1,6 @@
+Some features are still in development therefore they wont be working
+ 
+ 
  Cursor Changer
 
 Create, customize, generate, and apply Windows mouse cursors with ease.
